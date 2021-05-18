@@ -1,1 +1,1 @@
-web: bin/avidicom-utils
+web: bin/utils
